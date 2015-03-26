@@ -5,7 +5,7 @@ h1{
 	font-size: 45px;
 	font-family:Arial;
 	color: white;
-	margin-left: 30px;
+	margin-left: 7%;
 	margin-top: 50px;
 }
 
@@ -19,26 +19,40 @@ legend{
 	color:white;
 	font-family: Tahoma;
 	clear:both;
-	margin-left: 30px;
+	width: 50%;
+	margin: auto;
+	text-align: center;
+
 
 }
 button{
-	background: #0066FF; 
-	border-radius: 5px;
-	color: #FFFFFF;
-	font-size: 110%;
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-	margin-bottom: 30px;
+	margin-left: 44%;
+	margin-top: 10px:;
+
+
 }
 fieldset{
 	padding: 30px;
-	margin: 10px 200px 10px 10px;
+	margin:auto;
+
 }
 p{
 	color: white;
+	margin: auto;
 }
 .form-group{
 	color: white;
+	width:400px;
+	margin:auto;
+}
+/*.info{
+	margin:auto;
+	color:white;
+	text-align: center; 
+}*/
+#info-container {
+	margin: auto;
+	width: 400px;
+	color: white;
+	font-size: 16px:;
 }
