@@ -1,0 +1,44 @@
+body{
+	background-color: #FF6600;
+}
+h1{
+	font-size: 45px;
+	font-family:Arial;
+	color: white;
+	margin-left: 30px;
+	margin-top: 50px;
+}
+
+img{
+	border:10px solid #FFFFFF;
+
+	
+
+}
+legend{
+	color:white;
+	font-family: Tahoma;
+	clear:both;
+	margin-left: 30px;
+
+}
+button{
+	background: #0066FF; 
+	border-radius: 5px;
+	color: #FFFFFF;
+	font-size: 110%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 30px;
+}
+fieldset{
+	padding: 30px;
+	margin: 10px 200px 10px 10px;
+}
+p{
+	color: white;
+}
+.form-group{
+	color: white;
+}
